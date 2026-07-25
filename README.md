@@ -204,29 +204,6 @@ The application captures your screen, compresses frames, and sends them in real 
 - [ ] Remote control mode
 
 
-# 🤝 Contributing
-
-Contributions are welcome!
-
-Steps:
-
-1. Fork the repository
-2. Create a new branch
-
-```bash
-git checkout -b feature-name
-```
-
-3. Make your changes
-4. Commit
-
-```bash
-git commit -m "Add new feature"
-```
-
-5. Push your branch
-6. Create a Pull Request
-
 
 # 🐛 Bug Reports
 
