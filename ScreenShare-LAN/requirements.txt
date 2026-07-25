@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+mss
+pillow
+opencv-python
+qrcode

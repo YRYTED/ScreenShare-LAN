@@ -1,0 +1,25 @@
+body {
+
+    background:#111;
+    color:white;
+    font-family:Arial;
+    text-align:center;
+
+}
+
+
+h1 {
+
+    font-size:40px;
+
+}
+
+
+img {
+
+    width:90%;
+    max-width:1200px;
+    border-radius:15px;
+    margin-top:20px;
+
+}
