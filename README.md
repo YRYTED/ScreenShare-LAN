@@ -1,6 +1,5 @@
 # 🖥️ ScreenShare LAN
 
-![ScreenShare LAN Banner](https://via.placeholder.com/1200x300.png?text=ScreenShare+LAN)
 
 A simple and lightweight **open source LAN screen sharing application**.
 
