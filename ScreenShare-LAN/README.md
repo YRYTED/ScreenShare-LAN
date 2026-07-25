@@ -20,13 +20,7 @@ No client installation required.
 
 ## 📸 Screenshot
 
-_Add screenshots here_
-
-Example:
-
-```
-Coming soon...
-```
+![ScreenShare LAN](screenshots/screenshot.png)
 
 
 ## 🎯 Why ScreenShare LAN?
@@ -58,7 +52,7 @@ ScreenShare LAN is designed to be:
 ## Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ScreenShare-LAN.git
+git clone https://github.com/YRYTED/ScreenShare-LAN.git
 
 cd ScreenShare-LAN
 ```
