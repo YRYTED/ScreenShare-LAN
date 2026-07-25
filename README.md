@@ -26,7 +26,7 @@ No client installation required.
 
 ## 📸 Screenshot
 
-![ScreenShare LAN Screenshot](https://lh3.google.com/u/0/d/1ii1L4LxuvM-UizQOR3AUWqJEFzr5zTgQ=w1920-h959-iv1?auditContext=prefetch)
+![ScreenShare LAN](screenshots/screenshot.png)
 
 
 ## 🎯 Why ScreenShare LAN?
